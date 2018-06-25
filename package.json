@@ -1,0 +1,28 @@
+{
+  "name": "wuligege",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "mini.css": "^3.0.0",
+    "moment": "^2.22.2",
+    "pouchdb": "^7.0.0",
+    "react": "^16.4.1",
+    "react-app-rewired": "^1.5.2",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
+    "simple-get": "^3.0.2",
+    "webtorrent": "0.x"
+  },
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test --env=jsdom"
+  },
+  "devDependencies": {
+    "html": "^1.0.0",
+    "html-loader": "^0.5.5",
+    "less": "^3.0.4",
+    "less-loader": "^4.1.0"
+  }
+}
